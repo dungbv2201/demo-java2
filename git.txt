@@ -5,4 +5,6 @@ buoc 2:
  git remote add origin git@github.com:dungbv2201/demo-java2.git
 
 buoc 3: 
- git add ten_file
+    git add ten_file
+buoc 4
+    git comit -m'noi dung commit'
